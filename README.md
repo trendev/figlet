@@ -1,5 +1,4 @@
-# figlet 
-CIRCLECI : [![CircleCI](https://circleci.com/gh/trendev/figlet.svg?style=svg)](https://circleci.com/gh/trendev/figlet)
+# TRENDev's figlet image [![CircleCI](https://circleci.com/gh/trendev/figlet.svg?style=svg)](https://circleci.com/gh/trendev/figlet)
 
 ## Docker
 `docker build -t trendev/figlet .`
