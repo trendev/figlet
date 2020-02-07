@@ -9,3 +9,5 @@ CIRCLECI : [![CircleCI](https://circleci.com/gh/trendev/figlet.svg?style=svg)](h
 
 ## Kubernetes
 `kubectl run -it --rm --restart=Never --image=trendev/figlet figlet`
+
+`kubectl run -it --rm --restart=Never --image=trendev/figlet figlet -- -f slant -c TRENDev`
